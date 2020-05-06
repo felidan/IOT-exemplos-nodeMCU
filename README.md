@@ -11,9 +11,9 @@ Este repositório contém exemplos de programação para o módulo esp8266, pode
 * Respectivos componentes eletrônicos a serem utilizados
 
 ## Exemplos:
-   1 - Acionamento de um LED
-   2 - Acionamento de um LED via WiFi
-   3 - Utilizando Sensor de temperatura
-   4 - Utilizando Sensor de temperatura via WiFi
-   5 - Realizando uma Conexão com Nuvem
-   6 - Testes com Piezoeletrico e Multiplex
+* 1 - Acionamento de um LED
+* 2 - Acionamento de um LED via WiFi
+* 3 - Utilizando Sensor de temperatura
+* 4 - Utilizando Sensor de temperatura via WiFi
+* 5 - Realizando uma Conexão com Nuvem
+* 6 - Testes com Piezoeletrico e Multiplex
